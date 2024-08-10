@@ -31,4 +31,11 @@ body {
     font-size: 2em;
     cursor: pointer;
   }
+  .disclaimer {
+    font-size: 0.8em;
+    color: #666;
+    margin-top: 20px;
+    padding: 0 10px;
+    line-height: 1.4;
+  }
   
